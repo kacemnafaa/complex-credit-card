@@ -1,0 +1,10 @@
+.visal{
+    display: flex;
+    flex-flow: column wrap-reverse;
+    position: relative;
+    bottom: 70px;
+    right: 14px;
+   
+    
+
+}

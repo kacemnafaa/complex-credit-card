@@ -1,0 +1,7 @@
+.carnum{
+    color: rgb(71, 74, 236);
+    font-size: xx-large;
+    font-weight:bold;
+    display: flex;
+   flex-flow: column;
+}
